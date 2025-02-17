@@ -28,18 +28,7 @@ This project leverages Llama 3.2 vision and Chainlit to create a 100% locally ru
    ```
 
 ## Demo Video
-
-Click below to watch the demo video of the AI Assistant in action:
-
-[Watch the video](video-demo.mp4)
-
----
-
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
+ Demo video is mention in the repo.
 ---
 
 ## Contribution
